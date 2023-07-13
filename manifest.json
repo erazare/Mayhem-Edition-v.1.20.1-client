@@ -11,14 +11,9 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "Medieval Immersed",
-  "version": "Mayhem-Edition-v.1.20.1-client-v.002",
+  "version": "Mayhem-Edition-v.1.20.1-client-v.003",
   "author": "keef_dgaf",
   "files": [
-    {
-      "projectID": 689467,
-      "fileID": 4637049,
-      "required": true
-    },
     {
       "projectID": 613067,
       "fileID": 4583533,
@@ -65,11 +60,6 @@
       "required": true
     },
     {
-      "projectID": 422288,
-      "fileID": 4562468,
-      "required": true
-    },
-    {
       "projectID": 366140,
       "fileID": 4597074,
       "required": true
@@ -77,11 +67,6 @@
     {
       "projectID": 303657,
       "fileID": 4592974,
-      "required": true
-    },
-    {
-      "projectID": 631618,
-      "fileID": 4634195,
       "required": true
     },
     {
@@ -102,6 +87,11 @@
     {
       "projectID": 851046,
       "fileID": 4631880,
+      "required": true
+    },
+    {
+      "projectID": 790626,
+      "fileID": 4635135,
       "required": true
     },
     {
@@ -166,7 +156,7 @@
     },
     {
       "projectID": 878431,
-      "fileID": 4640908,
+      "fileID": 4641478,
       "required": true
     },
     {
@@ -277,6 +267,11 @@
     {
       "projectID": 495693,
       "fileID": 4634120,
+      "required": true
+    },
+    {
+      "projectID": 471167,
+      "fileID": 4619763,
       "required": true
     },
     {
@@ -505,6 +500,11 @@
       "required": true
     },
     {
+      "projectID": 550579,
+      "fileID": 4585144,
+      "required": true
+    },
+    {
       "projectID": 309927,
       "fileID": 4583413,
       "required": true
@@ -601,7 +601,7 @@
     },
     {
       "projectID": 401955,
-      "fileID": 4631683,
+      "fileID": 4641979,
       "required": true
     },
     {
