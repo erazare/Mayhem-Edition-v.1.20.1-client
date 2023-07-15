@@ -1,9 +1,9 @@
-[13:14:08] [Render thread/INFO] [JMLogger] JourneyMap log initialized.
-[13:14:08] [Render thread/INFO] [JourneymapClient] initialize ENTER
-[13:14:09] [Render thread/INFO] [ClientAPI] [ClientAPI] built with JourneyMap API 1.9-SNAPSHOT
-[13:14:09] [Render thread/INFO] [PluginHelper] Initializing plugins with Client API: journeymap.client.api.impl.ClientAPI
-[13:14:09] [Render thread/INFO] [PluginHelper] Initialized IClientPlugin: net.blay09.mods.waystones.compat.JourneyMapIntegration
-[13:14:09] [Render thread/INFO] [?] Version: JourneyMap 1.20.1-5.9.11, built with forge 1.20.1-47.0.18
+[19:48:18] [Render thread/INFO] [JMLogger] JourneyMap log initialized.
+[19:48:18] [Render thread/INFO] [JourneymapClient] initialize ENTER
+[19:48:18] [Render thread/INFO] [ClientAPI] [ClientAPI] built with JourneyMap API 1.9-SNAPSHOT
+[19:48:18] [Render thread/INFO] [PluginHelper] Initializing plugins with Client API: journeymap.client.api.impl.ClientAPI
+[19:48:18] [Render thread/INFO] [PluginHelper] Initialized IClientPlugin: net.blay09.mods.waystones.compat.JourneyMapIntegration
+[19:48:18] [Render thread/INFO] [?] Version: JourneyMap 1.20.1-5.9.11, built with forge 1.20.1-47.0.18
 forge: 47.1.3
 Environment: os.name, os.arch, java.version, user.country, user.language=null, game language=en_us, locale=en_us
 Features: 
@@ -21,33 +21,29 @@ FullMapProperties{state=Valid, file=journeymap.fullmap.config, configVersion=5.9
 WaypointProperties{state=Valid, file=journeymap.waypoint.config, configVersion=5.9.11, autoRemoveDeathpointDistance=2, dateFormat=MM-dd-yyyy, autoRemoveDeathpoints=false, fullscreenDoubleClickToCreate=true, managerDimensionFocus=false, minDistance=4, boldLabel=false, textureSmall=true, showDeathpointlabel=true, beaconEnabled=true, createDeathpoints=true, showName=true, disableStrikeThrough=false, maxDistance=0, autoHideLabel=true, autoRemoveTempWaypoints=2, teleportCommand=/tp {name} {x} {y} {z}, showStaticBeam=true, shaderBeacon=false, timeFormat=HH:mm:ss, showDeviationLabel=false, showDistance=true, showRotatingBeam=true, fontScale=2.0, showTexture=true, managerEnabled=true}
 WebMapProperties{state=Valid, file=journeymap.webmap.config, configVersion=5.9.11, port=8080, enabled=false}
 CoreProperties{state=Valid, file=journeymap.core.config, configVersion=5.9.11, verboseColorPalette=false, maxPlayersData=32, mapSurfaceAboveCaves=true, dataCachingEnabled=true, optionsManagerViewed=5.9.11, announceMod=true, colorPassive=#bbbbbb, mapBlendWater=false, renderDistanceSurfaceMax=0, seedId=false, radarVerticalDistance=16, mapBlendGrass=true, recordCacheStats=false, hideSneakingEntities=true, revealShape=jm.minimap.shape_circle, mapBiome=true, alwaysMapSurface=false, colorVillager=#88e188, mapPlants=false, colorPet=#0077ff, radarLateralDistance=64, mapBathymetry=false, mapCrops=true, maxMobsData=32, mapPlantShadows=false, alwaysMapCaves=false, checkUpdates=true, mapBlendFoliage=true, hideSpectators=false, mappingEnabled=true, colorPlayer=#ffffff, tileHighDisplayQuality=true, cacheVillagersData=2200, logLevel=INFO, maxVillagersData=32, mapWaterBiomeColors=false, maxAnimalsData=32, mapTransparency=true, caveBlackAsClear=false, tileRenderType=1, caveIgnoreGlass=true, mapTopography=true, renderDistanceCaveMax=0, mapAntialiasing=true, colorSelf=#0000ff, cachePlayersData=2000, cacheMobsData=3000, cachePlayerData=1000, splashViewed=5.9.11, colorHostile=#ff0000, cacheAnimalsData=3100, themeName=OceanMonument, mapCaveLighting=true, renderDelay=2, glErrorChecking=false, autoMapPoll=2000}
-[13:14:09] [Render thread/INFO] [JourneymapClient] initialize EXIT, elapsed count 1 avg 306.37ms
-[13:14:12] [Render thread/INFO] [JourneymapClient] Journeymap PostInit
-[13:14:12] [Render thread/INFO] [ThemeLoader] Preloaded theme textures: 73
-[13:14:12] [Render thread/INFO] [JourneymapClient] postInitialize EXIT, elapsed count 1 avg 213.54ms
-[13:14:37] [Server thread/INFO] [ForgeConfig] Loading JourneyMap Forge Configs
-[13:14:51] [Render thread/INFO] [ChatLog] JourneyMap: Press [M]
-[13:14:51] [Render thread/INFO] [WaypointStore] Loaded 0 waypoints from C:\Users\3raza\curseforge\minecraft\Instances\Mayhem\journeymap\data\sp\New World (1)\waypoints
-[13:14:51] [Render thread/INFO] [JourneymapClient] Mapping started in C:\Users\3raza\curseforge\minecraft\Instances\Mayhem\journeymap\data\sp\New World (1)\overworld. Memory: 6704MB total, 3082MB free 
-[13:16:34] [Render thread/WARN] [JMLogger] Can't get entityTexture for alexsmobs:textures/entity_icon/crow.png
-[13:16:34] [Render thread/WARN] [JMLogger] Can't get entityTexture for alexsmobs:textures/entity_icon/tasmanian_devil.png
-[13:16:34] [Render thread/WARN] [JMLogger] Can't get entityTexture for alexsmobs:textures/entity_icon/terrapin/terrapin_black.png
-[13:16:34] [Render thread/WARN] [JMLogger] Can't get entityTexture for alexsmobs:textures/entity_icon/terrapin/terrapin_painted.png
-[13:16:34] [Render thread/WARN] [JMLogger] Can't get entityTexture for alexsmobs:textures/entity_icon/lobster_red.png
-[13:16:34] [Render thread/WARN] [JMLogger] Can't get entityTexture for alexsmobs:textures/entity_icon/lobster_blue.png
-[13:16:34] [Render thread/WARN] [JMLogger] Can't get entityTexture for graveyard:textures/entity_icon/skeleton_creeper.png
-[13:16:39] [Render thread/WARN] [JMLogger] Can't get entityTexture for alexsmobs:textures/entity_icon/blue_jay.png
-[13:16:43] [Render thread/WARN] [JMLogger] Can't get entityTexture for ars_nouveau:textures/entity_icon/whirlisprig_summer.png
-[13:16:43] [Render thread/WARN] [JMLogger] Can't get entityTexture for ars_nouveau:textures/entity_icon/drygmy_brown.png
-[13:16:43] [Render thread/WARN] [JMLogger] Can't get entityTexture for ars_nouveau:textures/entity_icon/starbuncle_red.png
-[13:16:48] [Render thread/WARN] [JMLogger] Can't get entityTexture for ars_nouveau:textures/entity_icon/starbuncle_magenta.png
-[13:16:48] [Render thread/WARN] [JMLogger] Can't get entityTexture for ars_nouveau:textures/entity_icon/starbuncle_yellow.png
-[13:16:48] [Render thread/WARN] [JMLogger] Can't get entityTexture for ars_nouveau:textures/entity_icon/gift_starby.png
-[13:16:48] [Render thread/WARN] [JMLogger] Can't get entityTexture for alexsmobs:textures/entity_icon/fly.png
-[13:16:48] [Render thread/WARN] [JMLogger] Can't get entityTexture for ars_nouveau:textures/entity_icon/starbuncle_cyan.png
-[13:17:38] [Render thread/WARN] [JMLogger] Can't get entityTexture for alexsmobs:textures/entity_icon/grizzly_bear.png
-[13:17:38] [Render thread/WARN] [JMLogger] Can't get entityTexture for ars_nouveau:textures/entity_icon/wilden_guardian.png
-[13:17:54] [Render thread/WARN] [JMLogger] Can't get entityTexture for mutantmonsters:textures/entity_icon/mutant_zombie.png
-[13:18:01] [Render thread/WARN] [JMLogger] Can't get entityTexture for ars_nouveau:textures/entity_icon/wilden_hunter.png
-[13:19:30] [Render thread/INFO] [JourneymapClient] Mapping halted in C:\Users\3raza\curseforge\minecraft\Instances\Mayhem\journeymap\data\mp\offline\minecraft:overworld
-[13:19:37] [Server thread/INFO] [ForgeConfig] Loading JourneyMap Forge Configs
+[19:48:18] [Render thread/INFO] [JourneymapClient] initialize EXIT, elapsed count 1 avg 273.81ms
+[19:48:22] [Render thread/INFO] [JourneymapClient] Journeymap PostInit
+[19:48:22] [Render thread/ERROR] [FileHandler] Couldn't locate icons for flat: C:\Users\3raza\curseforge\minecraft\Instances\Mayhem%20(1)\mods\journeymap-1.20.1-5.9.11-forge.jar\assets\journeymap\theme\flat
+[19:48:22] [Render thread/INFO] [ThemeLoader] Preloaded theme textures: 73
+[19:48:22] [Render thread/INFO] [JourneymapClient] postInitialize EXIT, elapsed count 1 avg 53.11ms
+[19:48:57] [Server thread/INFO] [ForgeConfig] Loading JourneyMap Forge Configs
+[19:49:20] [Render thread/INFO] [ChatLog] JourneyMap: Press [M]
+[19:49:20] [Render thread/INFO] [WaypointStore] Loaded 0 waypoints from C:\Users\3raza\curseforge\minecraft\Instances\Mayhem (1)\journeymap\data\sp\New World (9)\waypoints
+[19:49:20] [Render thread/INFO] [JourneymapClient] Mapping started in C:\Users\3raza\curseforge\minecraft\Instances\Mayhem (1)\journeymap\data\sp\New World (9)\overworld. Memory: 6496MB total, 2311MB free 
+[19:51:39] [Render thread/WARN] [JMLogger] Can't get entityTexture for alexsmobs:textures/entity_icon/crow.png
+[19:51:43] [Render thread/WARN] [JMLogger] Can't get entityTexture for graveyard:textures/entity_icon/revenant.png
+[20:12:18] [Render thread/INFO] [JourneymapClient] Mapping halted in C:\Users\3raza\curseforge\minecraft\Instances\Mayhem (1)\journeymap\data\mp\offline\minecraft:overworld
+[20:12:25] [Server thread/INFO] [ForgeConfig] Loading JourneyMap Forge Configs
+[20:12:40] [Netty Client IO #2/INFO] [ForgeConfig] Loading JourneyMap Forge Configs
+[20:12:43] [Render thread/INFO] [WaypointStore] Loaded 0 waypoints from C:\Users\3raza\curseforge\minecraft\Instances\Mayhem (1)\journeymap\data\mp\Minecraft~Server\waypoints
+[20:12:43] [Render thread/INFO] [JourneymapClient] Mapping started in C:\Users\3raza\curseforge\minecraft\Instances\Mayhem (1)\journeymap\data\mp\Minecraft~Server\overworld. Memory: 6496MB total, 1115MB free 
+[20:12:45] [Render thread/INFO] [JourneymapClient] Mapping halted in C:\Users\3raza\curseforge\minecraft\Instances\Mayhem (1)\journeymap\data\mp\Minecraft~Server\minecraft:overworld
+[20:12:45] [Render thread/INFO] [JourneymapClient] World UID is set to: 6aba65eb-1380-4086-bac7-a3845bbadf79
+[20:12:46] [Render thread/INFO] [WaypointStore] Loaded 0 waypoints from C:\Users\3raza\curseforge\minecraft\Instances\Mayhem (1)\journeymap\data\mp\Minecraft~Server_6aba65eb~1380~4086~bac7~a3845bbadf79\waypoints
+[20:12:46] [Render thread/INFO] [JourneymapClient] Mapping started in C:\Users\3raza\curseforge\minecraft\Instances\Mayhem (1)\journeymap\data\mp\Minecraft~Server_6aba65eb~1380~4086~bac7~a3845bbadf79\overworld. Memory: 6496MB total, 1803MB free 
+[20:13:24] [Render thread/WARN] [JMLogger] Can't get entityTexture for alexsmobs:textures/entity_icon/raccoon.png
+[20:13:24] [Render thread/WARN] [JMLogger] Can't get entityTexture for ars_nouveau:textures/entity_icon/wilden_hunter.png
+[20:14:31] [Render thread/INFO] [JourneymapClient] Mapping halted in C:\Users\3raza\curseforge\minecraft\Instances\Mayhem (1)\journeymap\data\mp\Minecraft~Server_6aba65eb~1380~4086~bac7~a3845bbadf79\minecraft:overworld
+[20:14:31] [JM-task-7/WARN] [TaskBatch] TaskBatch thread interrupted: journeymap.client.task.multi.MapPlayerTask$MapPlayerTaskBatch@4c26f17d
+[20:14:31] [Render thread/INFO] [MappingMonitorTask] World ID has been reset.
+[20:14:31] [Render thread/INFO] [JourneymapClient] World UID is set to: null

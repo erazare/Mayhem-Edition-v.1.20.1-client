@@ -7,5 +7,6 @@
   "tryForceEmfModels": true,
   "printUnknownModelsMode": "NONE",
   "attemptPhysicsModPatch_1": false,
-  "attemptToCopyVanillaModelIntoMissingModelPart": false
+  "attemptToCopyVanillaModelIntoMissingModelPart": false,
+  "textureOverrideMode": "EMF_CODE"
 }
