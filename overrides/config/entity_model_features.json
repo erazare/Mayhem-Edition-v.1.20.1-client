@@ -8,5 +8,5 @@
   "printUnknownModelsMode": "NONE",
   "attemptPhysicsModPatch_1": false,
   "attemptToCopyVanillaModelIntoMissingModelPart": false,
-  "textureOverrideMode": "EMF_CODE"
+  "textureOverrideMode": "USE_IRIS_QUIRK_AND_DEFER_TO_EMF_CODE_OTHERWISE"
 }
