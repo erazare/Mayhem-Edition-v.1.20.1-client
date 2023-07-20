@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "Medieval Immersed",
-  "version": "Mayhem-Edition-v.006",
+  "version": "Mayhem-Edition-v.007",
   "author": "keef_dgaf",
   "files": [
     {
@@ -21,7 +21,7 @@
     },
     {
       "projectID": 551151,
-      "fileID": 4613534,
+      "fileID": 4652863,
       "required": true
     },
     {
@@ -46,7 +46,7 @@
     },
     {
       "projectID": 257814,
-      "fileID": 4651124,
+      "fileID": 4654844,
       "required": true
     },
     {
@@ -216,7 +216,7 @@
     },
     {
       "projectID": 412082,
-      "fileID": 4651057,
+      "fileID": 4654103,
       "required": true
     },
     {
@@ -246,7 +246,7 @@
     },
     {
       "projectID": 570073,
-      "fileID": 4644409,
+      "fileID": 4653588,
       "required": true
     },
     {
@@ -426,7 +426,7 @@
     },
     {
       "projectID": 790626,
-      "fileID": 4642995,
+      "fileID": 4653954,
       "required": true
     },
     {
@@ -561,7 +561,7 @@
     },
     {
       "projectID": 551586,
-      "fileID": 4651053,
+      "fileID": 4654774,
       "required": true
     },
     {
@@ -716,12 +716,12 @@
     },
     {
       "projectID": 499980,
-      "fileID": 4650809,
+      "fileID": 4654070,
       "required": true
     },
     {
       "projectID": 527361,
-      "fileID": 4628730,
+      "fileID": 4653602,
       "required": true
     },
     {
@@ -755,13 +755,13 @@
       "required": true
     },
     {
-      "projectID": 551894,
-      "fileID": 4608848,
+      "projectID": 864599,
+      "fileID": 4651810,
       "required": true
     },
     {
-      "projectID": 864599,
-      "fileID": 4645601,
+      "projectID": 551894,
+      "fileID": 4608848,
       "required": true
     },
     {
@@ -797,11 +797,6 @@
     {
       "projectID": 635427,
       "fileID": 4589804,
-      "required": true
-    },
-    {
-      "projectID": 883166,
-      "fileID": 4619485,
       "required": true
     },
     {
@@ -856,7 +851,7 @@
     },
     {
       "projectID": 314906,
-      "fileID": 4630372,
+      "fileID": 4654814,
       "required": true
     },
     {
