@@ -288,7 +288,7 @@ customization {
   enable_scrolling = true
   shadow = true
   scale = 1.0
-  source = v.007
+  source = v.009
   text_border = 0
   case_mode = normal
   source_mode = direct
