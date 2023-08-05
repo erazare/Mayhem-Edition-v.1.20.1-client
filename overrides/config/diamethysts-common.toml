@@ -1419,22 +1419,22 @@
 		#Attack damage bonus [default: 2.0]
 		#Range: 0.0 ~ 40.0
 		diamethystLapisToolAttackDamageBonus = 2.0
-		#Enchantability [default: 20]
+		#Enchantability [default: 17]
 		#Range: 1 ~ 50
 		diamethystLapisToolEnchantability = 17
 
 	#Diamethyst Prismarine Tools
 	[diamethyst_tools.diamethyst_prismarine_tools]
-		#Durability [default: 500]
+		#Durability [default: 600]
 		#Range: 1 ~ 3000
 		diamethystPrismarineToolDurability = 600
-		#Efficiency [default: 7.5]
+		#Efficiency [default: 8.5]
 		#Range: 0.0 ~ 20.0
 		diamethystPrismarineToolEfficiency = 8.5
 		#Attack damage bonus [default: 2.0]
 		#Range: 0.0 ~ 40.0
 		diamethystPrismarineToolAttackDamageBonus = 2.0
-		#Enchantability [default: 20]
+		#Enchantability [default: 18]
 		#Range: 1 ~ 50
 		diamethystPrismarineToolEnchantability = 18
 

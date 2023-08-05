@@ -1,10 +1,10 @@
-[13:39:14] [Render thread/INFO] [JMLogger] JourneyMap log initialized.
-[13:39:14] [Render thread/INFO] [JourneymapClient] initialize ENTER
-[13:39:14] [Render thread/INFO] [ClientAPI] [ClientAPI] built with JourneyMap API 1.9-SNAPSHOT
-[13:39:14] [Render thread/INFO] [PluginHelper] Initializing plugins with Client API: journeymap.client.api.impl.ClientAPI
-[13:39:14] [Render thread/INFO] [PluginHelper] Initialized IClientPlugin: com.minecolonies.coremod.compatibility.journeymap.JourneymapPlugin
-[13:39:14] [Render thread/INFO] [PluginHelper] Initialized IClientPlugin: net.blay09.mods.waystones.compat.JourneyMapIntegration
-[13:39:14] [Render thread/INFO] [?] Version: JourneyMap 1.20.1-5.9.12, built with forge 1.20.1-47.0.18
+[11:32:56] [Render thread/INFO] [JMLogger] JourneyMap log initialized.
+[11:32:56] [Render thread/INFO] [JourneymapClient] initialize ENTER
+[11:32:56] [Render thread/INFO] [ClientAPI] [ClientAPI] built with JourneyMap API 1.9-SNAPSHOT
+[11:32:56] [Render thread/INFO] [PluginHelper] Initializing plugins with Client API: journeymap.client.api.impl.ClientAPI
+[11:32:56] [Render thread/INFO] [PluginHelper] Initialized IClientPlugin: com.minecolonies.coremod.compatibility.journeymap.JourneymapPlugin
+[11:32:56] [Render thread/INFO] [PluginHelper] Initialized IClientPlugin: net.blay09.mods.waystones.compat.JourneyMapIntegration
+[11:32:56] [Render thread/INFO] [?] Version: JourneyMap 1.20.1-5.9.12, built with forge 1.20.1-47.0.18
 forge: 47.1.3
 Environment: os.name, os.arch, java.version, user.country, user.language=null, game language=en_us, locale=en_us
 Features: 
@@ -22,16 +22,16 @@ FullMapProperties{state=Valid, file=journeymap.fullmap.config, configVersion=5.9
 WaypointProperties{state=Valid, file=journeymap.waypoint.config, configVersion=5.9.12, autoRemoveDeathpointDistance=2, dateFormat=MM-dd-yyyy, autoRemoveDeathpoints=false, fullscreenDoubleClickToCreate=true, managerDimensionFocus=false, minDistance=4, boldLabel=false, textureSmall=true, showDeathpointlabel=true, beaconEnabled=true, createDeathpoints=true, showName=true, disableStrikeThrough=false, maxDistance=0, autoHideLabel=true, autoRemoveTempWaypoints=2, teleportCommand=/tp {name} {x} {y} {z}, showStaticBeam=true, shaderBeacon=false, timeFormat=HH:mm:ss, showDeviationLabel=false, showDistance=true, showRotatingBeam=true, fontScale=2.0, showTexture=true, managerEnabled=true}
 WebMapProperties{state=Valid, file=journeymap.webmap.config, configVersion=5.9.12, port=8080, enabled=false}
 CoreProperties{state=Valid, file=journeymap.core.config, configVersion=5.9.12, verboseColorPalette=false, maxPlayersData=32, mapSurfaceAboveCaves=true, dataCachingEnabled=true, optionsManagerViewed=5.9.11, announceMod=true, colorPassive=#bbbbbb, mapBlendWater=false, renderDistanceSurfaceMax=0, seedId=false, radarVerticalDistance=16, mapBlendGrass=true, recordCacheStats=false, hideSneakingEntities=true, revealShape=jm.minimap.shape_circle, mapBiome=true, alwaysMapSurface=false, colorVillager=#88e188, mapPlants=false, colorPet=#0077ff, radarLateralDistance=64, mapBathymetry=false, mapCrops=true, maxMobsData=32, mapPlantShadows=false, alwaysMapCaves=false, checkUpdates=true, mapBlendFoliage=true, hideSpectators=false, mappingEnabled=true, colorPlayer=#ffffff, tileHighDisplayQuality=true, cacheVillagersData=2200, logLevel=INFO, maxVillagersData=32, mapWaterBiomeColors=false, maxAnimalsData=32, mapTransparency=true, caveBlackAsClear=false, tileRenderType=1, caveIgnoreGlass=true, mapTopography=true, renderDistanceCaveMax=0, mapAntialiasing=true, colorSelf=#0000ff, cachePlayersData=2000, cacheMobsData=3000, cachePlayerData=1000, splashViewed=5.9.12, colorHostile=#ff0000, cacheAnimalsData=3100, themeName=OceanMonument, mapCaveLighting=true, renderDelay=2, glErrorChecking=false, autoMapPoll=2000}
-[13:39:14] [Render thread/INFO] [JourneymapClient] initialize EXIT, elapsed count 1 avg 310.82ms
-[13:39:18] [Render thread/INFO] [JourneymapClient] Journeymap PostInit
-[13:39:18] [Render thread/ERROR] [FileHandler] Couldn't locate icons for flat: C:\Users\3raza\curseforge\minecraft\Instances\Medieval%20Immersed%20-%20Forge%20-%20(1)%20(1)%20(1)%20(1)\mods\journeymap-1.20.1-5.9.12-forge.jar\assets\journeymap\theme\flat
-[13:39:18] [Render thread/INFO] [ThemeLoader] Preloaded theme textures: 73
-[13:39:18] [Render thread/INFO] [JourneymapClient] postInitialize EXIT, elapsed count 1 avg 52.15ms
-[13:39:54] [Netty Login IO Thread #0/INFO] [ForgeConfig] Loading JourneyMap Forge Configs
-[13:39:59] [Render thread/INFO] [JourneymapClient] World UID is set to: 796182b6-4cee-478d-b0dd-7d3581df9cf9
-[13:40:05] [Render thread/INFO] [ChatLog] JourneyMap: Press [M]
-[13:40:05] [Render thread/INFO] [WaypointStore] Loaded 0 waypoints from C:\Users\3raza\curseforge\minecraft\Instances\Medieval Immersed - Forge - (1) (1) (1) (1)\journeymap\data\mp\Minecraft~Server_796182b6~4cee~478d~b0dd~7d3581df9cf9\waypoints
-[13:40:05] [Render thread/INFO] [JourneymapClient] Mapping started in C:\Users\3raza\curseforge\minecraft\Instances\Medieval Immersed - Forge - (1) (1) (1) (1)\journeymap\data\mp\Minecraft~Server_796182b6~4cee~478d~b0dd~7d3581df9cf9\overworld. Memory: 5136MB total, 3146MB free 
-[13:40:17] [Render thread/INFO] [JourneymapClient] Mapping halted in C:\Users\3raza\curseforge\minecraft\Instances\Medieval Immersed - Forge - (1) (1) (1) (1)\journeymap\data\mp\Minecraft~Server_796182b6~4cee~478d~b0dd~7d3581df9cf9\minecraft:overworld
-[13:40:17] [Render thread/INFO] [MappingMonitorTask] World ID has been reset.
-[13:40:17] [Render thread/INFO] [JourneymapClient] World UID is set to: null
+[11:32:56] [Render thread/INFO] [JourneymapClient] initialize EXIT, elapsed count 1 avg 348.46ms
+[11:33:01] [Render thread/INFO] [JourneymapClient] Journeymap PostInit
+[11:33:01] [Render thread/ERROR] [FileHandler] Couldn't locate icons for flat: C:\Users\3raza\curseforge\minecraft\Instances\Medieval%20Immersed%20-%20Forge\mods\journeymap-1.20.1-5.9.12-forge.jar\assets\journeymap\theme\flat
+[11:33:01] [Render thread/INFO] [ThemeLoader] Preloaded theme textures: 73
+[11:33:01] [Render thread/INFO] [JourneymapClient] postInitialize EXIT, elapsed count 1 avg 50.36ms
+[11:33:15] [Netty Login IO Thread #0/INFO] [ForgeConfig] Loading JourneyMap Forge Configs
+[11:33:24] [Render thread/INFO] [JourneymapClient] World UID is set to: 823378f7-8dfc-4058-9c77-0b914268f58a
+[11:33:26] [Render thread/INFO] [ChatLog] JourneyMap: Press [M]
+[11:33:27] [Render thread/INFO] [WaypointStore] Loaded 0 waypoints from C:\Users\3raza\curseforge\minecraft\Instances\Medieval Immersed - Forge\journeymap\data\mp\Minecraft~Server_823378f7~8dfc~4058~9c77~0b914268f58a\waypoints
+[11:33:27] [Render thread/INFO] [JourneymapClient] Mapping started in C:\Users\3raza\curseforge\minecraft\Instances\Medieval Immersed - Forge\journeymap\data\mp\Minecraft~Server_823378f7~8dfc~4058~9c77~0b914268f58a\overworld. Memory: 4256MB total, 2709MB free 
+[11:34:31] [Render thread/INFO] [JourneymapClient] Mapping halted in C:\Users\3raza\curseforge\minecraft\Instances\Medieval Immersed - Forge\journeymap\data\mp\Minecraft~Server_823378f7~8dfc~4058~9c77~0b914268f58a\minecraft:overworld
+[11:34:31] [Render thread/INFO] [MappingMonitorTask] World ID has been reset.
+[11:34:31] [Render thread/INFO] [JourneymapClient] World UID is set to: null
